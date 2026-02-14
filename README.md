@@ -12,13 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img 
-  style="display: grid; place-items: center;" 
-  width="200" 
-  height="200" 
-  alt="coding" 
-  src="https://github.com/user-attachments/assets/f47eebf8-a3e4-4eeb-9064-e9a671753140" 
-/>
+
 
 
 <h1>Hi 🤩, I'm Deepan and I'm Software Engineer + Angular Developer + Full-Stack Enthusiast </h1>  
@@ -37,3 +31,11 @@ Open to new opportunities to grow as a Full-Stack Developer
 
 
 <a target="_blank" href="https://d-f-5.vercel.app/">Portfolio Website</a> | <a target="_blank" href="https://www.linkedin.com/in/deepan-p-f5/">Catch me on LinkedIn</a>
+
+<img 
+  style="display: grid; place-items: center;" 
+  width="200" 
+  height="200" 
+  alt="coding" 
+  src="https://github.com/user-attachments/assets/f47eebf8-a3e4-4eeb-9064-e9a671753140" 
+/>
