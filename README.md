@@ -12,6 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img width="512" height="512" alt="coding" src="https://github.com/user-attachments/assets/f47eebf8-a3e4-4eeb-9064-e9a671753140" />
+
 
 <h1>Hi 🤩, I'm Deepan and I'm Software Engineer + Angular Developer + Full-Stack Enthusiast </h1>  
 Passionate about building scalable, maintainable web applications using Angular and modern web technologies.
