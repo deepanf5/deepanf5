@@ -12,11 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<div>
-
 <h1>Hi 🤩, I'm Deepan and I'm Software Engineer | Angular Developer | Full-Stack Enthusiast </h1>  
 Passionate about building scalable, maintainable web applications using Angular and modern web technologies.
-</div>
 
 <h2>Skills & Technologies:</h2>  
 JavaScript, TypeScript, Angular, React, Node.js, Express, MongoDB, SQL, RxJS, REST APIs  
