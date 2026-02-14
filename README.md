@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 <h1>Hi, I'm Deepan and I'm Software Engineer | Angular Developer | Full-Stack Enthusiast</h1>  
 Passionate about building scalable, maintainable web applications using Angular and modern web technologies.
 
-**Skills & Technologies:**  
+<h2>Skills & Technologies:</h2>  
 JavaScript, TypeScript, Angular, React, Node.js, Express, MongoDB, SQL, RxJS, REST APIs  
 
 🚀 **What I do:**  
@@ -24,7 +24,7 @@ Develop responsive and user-friendly web applications
 Work with frontend technologies to build modern web apps
 Learning backend development with Node.js, Express, and MongoDB
 
-🌱 **Currently Learning & Exploring:**  
+🌱 <h2>Currently Learning & Exploring:</h2>
 Open to new opportunities to grow as a Full-Stack Developer
 
 
