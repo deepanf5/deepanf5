@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Deepan and I'm Software Engineer | Angular Developer | Full-Stack Enthusiast  
+Passionate about building scalable, maintainable web applications using Angular and modern web technologies.
+
+Skills: Java-Script,  Angular, React, NodeJs, Express, MongoDB  TypeScript, RxJS, REST APIs, SQL.
+
 
 
 <!--
