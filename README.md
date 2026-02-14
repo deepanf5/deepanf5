@@ -19,12 +19,12 @@ Passionate about building scalable, maintainable web applications using Angular 
 <h2>Skills & Technologies:</h2>  
 JavaScript, TypeScript, Angular, React, Node.js, Express, MongoDB, SQL, RxJS, REST APIs  
 
-🚀 **What I do:**  
+<h2>🚀 What I do:</h2>
 Develop responsive and user-friendly web applications
 Work with frontend technologies to build modern web apps
 Learning backend development with Node.js, Express, and MongoDB
 
-🌱 <h2>Currently Learning & Exploring:</h2>
+<h2>🌱 Currently Learning & Exploring:</h2>
 Open to new opportunities to grow as a Full-Stack Developer
 
 
