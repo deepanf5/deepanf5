@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img width="200" height="200" alt="coding" src="https://github.com/user-attachments/assets/f47eebf8-a3e4-4eeb-9064-e9a671753140" />
+<img style="place-item:center" width="200" height="200" alt="coding" src="https://github.com/user-attachments/assets/f47eebf8-a3e4-4eeb-9064-e9a671753140" />
 
 
 <h1>Hi 🤩, I'm Deepan and I'm Software Engineer + Angular Developer + Full-Stack Enthusiast </h1>  
