@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div>
-🤩
-<h1>Hi, I'm Deepan and I'm Software Engineer | Angular Developer | Full-Stack Enthusiast </h1>  
+Hi 🤩👋👋 !!!
+<h1>I'm Deepan and I'm Software Engineer | Angular Developer | Full-Stack Enthusiast </h1>  
 Passionate about building scalable, maintainable web applications using Angular and modern web technologies.
 </div>
 
