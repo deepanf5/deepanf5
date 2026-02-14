@@ -12,8 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<h1>Hi, I'm Deepan and I'm Software Engineer | Angular Developer | Full-Stack Enthusiast</h1>  
+🤩
+<h1>Hi, I'm Deepan and I'm Software Engineer | Angular Developer | Full-Stack Enthusiast </h1>  
 Passionate about building scalable, maintainable web applications using Angular and modern web technologies.
 
 <h2>Skills & Technologies:</h2>  
