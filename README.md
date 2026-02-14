@@ -16,6 +16,16 @@ Here are some ideas to get you started:
 <h1>Hi, I'm Deepan and I'm Software Engineer | Angular Developer | Full-Stack Enthusiast</h1>  
 Passionate about building scalable, maintainable web applications using Angular and modern web technologies.
 
-Skills: Java-Script,  Angular, React, NodeJs, Express, MongoDB, TypeScript, RxJS, REST APIs, SQL.
+**Skills & Technologies:**  
+JavaScript, TypeScript, Angular, React, Node.js, Express, MongoDB, SQL, RxJS, REST APIs  
 
-<a targe="_blank" href="https://d-f-5.vercel.app/">Portfolio Website</a>
+🚀 **What I do:**  
+Develop responsive and user-friendly web applications
+Work with frontend technologies to build modern web apps
+Learning backend development with Node.js, Express, and MongoDB
+
+🌱 **Currently Learning & Exploring:**  
+Open to new opportunities to grow as a Full-Stack Developer
+
+
+<a target="_blank" href="https://d-f-5.vercel.app/">Portfolio Website</a> | <a target="_blank" href="https://www.linkedin.com/in/deepan-p-f5/">Catch me on LinkedIn</a>
